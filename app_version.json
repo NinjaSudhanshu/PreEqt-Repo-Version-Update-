@@ -1,6 +1,6 @@
 {
-    "ios_latest_version": "1.1.0",
-    "android_latest_version":"1.1.1",
+    "ios_latest_version": "1.1.3",
+    "android_latest_version":"1.1.3",
     "force_update": false,
     "playstore_url": "https://play.google.com/store/apps/details?id=com.preqt.app",
     "appstore_url": "https://apps.apple.com/in/app/preqt/id6751903472"
